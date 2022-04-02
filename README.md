@@ -2,6 +2,7 @@
 
 ## Task
 1 Dasturchilar kuni yilning 255-kunida nishonlanadi(bunda 1 - yanvar nolinchi kun deb hisoblanadi). Berilgan yildagi dasturchilar kuni sanasini aniqlaydigan dastur yozishingiz kerak.
+
 Result 
 input  output
 2000   12/09/2000
