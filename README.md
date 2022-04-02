@@ -22,4 +22,6 @@ Result
 34      3,
 123     2,
 90900   0
+
+
 5 https://robocontest.uz/tasks/0046
