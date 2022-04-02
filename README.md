@@ -9,6 +9,7 @@ input  output
 2009   13/09/2009
 
 2 Beshta musbat butun son berilgan, ulardan to'rttasini ajratib olinganda umumiy yig'indisi bo'lishi mumkin bo'lgan minimum qiymat va maksimum qiymatni aniqlang.
+
 Result
 input       output
 1 2 3 4 5   10 15
